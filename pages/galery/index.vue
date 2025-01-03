@@ -1,51 +1,64 @@
 <template>
-<div class="row row-cols-3 ">
-
-<div class="card mb-3 shadow p-3 mb-5 bg-body-tertiary rounded" style="max-width: 450px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="/img/tkj.jpg" class="img-fluid rounded-start" alt="...">
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col">
+      <div class="card">
+        <img src="/img/srl.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">pengujian lintasan safety riding smkn4 tasikmalaya</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
+      </div>
     </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">TEKNIK KOMPUTER DAN JARINGAN</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.</p>
+    <div class="col">
+      <div class="card">
+        <img src="/img/srl.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">pengujian lintasan safety riding smkn4 tasikmalaya</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="/img/srl.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">pengujian lintasan safety riding smkn4 tasikmalaya</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="/img/prestasi.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="/img/prestasi.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <img src="/img/prestasi.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
+            content. This content is a little bit longer.</p>
+        </div>
       </div>
     </div>
   </div>
-</div>
-
-
-<div class="card mb-3 mx-1 shadow p-3 mb-5 bg-body-tertiary rounded" style="max-width: 450px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="/img/rpl.png" class="img-fluid rounded-start" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">REKAYASA PERANGKAT LUNAK</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="card mb-3 mx-1 shadow p-3 mb-5 bg-body-tertiary rounded" style="max-width: 450px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="/img/tsm.png" class="img-fluid rounded-start" alt="...">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h5 class="card-title">TEKNIK SEPEDA MOTOR</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional
-          content. This content is a little bit longer.</p>
-      </div>
-    </div>
-  </div>
-</div>
-</div>
 </template>

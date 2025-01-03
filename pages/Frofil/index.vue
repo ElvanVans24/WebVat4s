@@ -5,16 +5,8 @@
                 aria-current="true" aria-label="Slide 1"></button>
             <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
                 aria-label="Slide 2"></button>
-            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
-                aria-label="Slide 3"></button>
         </div>
         <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="/img/peresmian.jpg" class="d-block w-100" style="height: 70vh;" alt="...">
-                <div class="carousel-caption d-none d-md-block">
-                    <h5>lapangan smkn 4 tasikmalaya</h5>
-                </div>
-            </div>
             <div class="carousel-item active">
                 <img src="/img/upacara.jpg" class="d-block w-100" style="height: 70vh;" alt="...">
                 <div class="carousel-caption d-none d-md-block">
@@ -58,7 +50,7 @@
 
         <div class="row">
             <div class="col-6 pt-5">
-                <img src="/img/bapa.png" class="w-50 rounded-5" alt="" srcset="">
+                <img src="/img/kepala.jpg" class="w-50 rounded-5" alt="" srcset="">
             </div>
             <div class="col-6 px-5">
                 <h1 class="text-center mb-5">Visi & Misi</h1>
@@ -73,7 +65,7 @@
 
                 <h3 class="text-primary">Misi</h3>
                 <ul>
-                    <li type="font-size:1em">jMenyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill maupun
+                    <li type="font-size:1em">Menyiapkan Sumber Daya Manusia yang cerdas dan kompeten baik hardskill maupun
                         softskill</li>
                     <li type="font-size:1em">Meningkatkan dan mengembangkan aktifitas serta kreatifitas seluruh warga sekolah
                         dalam berbagai kegiatan positif.
